@@ -1,0 +1,15 @@
+p{
+    background-size: 70vh;
+    background-position: center;
+    line-height: 16px;
+    background: url("https://secure3.vncdn.vn/ttnew/r/2021/12/30/thao-nhi-le-2-1640661501921395209788-1640836674.jpeg");
+    -webkit-background-clip: text;
+    background-attachment: fixed;
+    background-clip:text;
+    background-repeat: no-repeat;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  }
+  body {
+    background: black;
+    overflow: hidden;
+  }
